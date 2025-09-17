@@ -22,6 +22,13 @@ Gosto de explorar dados, criar visualizações interativas e transformar informa
 ### 🔗 Minhas Redes  
 
 <p align="left">
+<a href="https://www.instagram.com/luanrobert17/?hl=pt-br">
+    <img 
+        alt="Instagram" 
+        title="Me siga no Instagram"
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+</a>
     <a href="https://github.com/LuanRob?tab=followers">
         <img 
             alt="Seguidores" 
@@ -36,17 +43,23 @@ Gosto de explorar dados, criar visualizações interativas e transformar informa
             src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.kaggle.com/luanroberth">
+    <a href="https://www.kaggle.com/luanrobert">
         <img 
             alt="Kaggle"
             title="Meus projetos no Kaggle"
             src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
         />
     </a>
+    <a href="mailto:luanroberth22@gmail.com">
+        <img
+            alt="Email"
+            title="Meu email"
+            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
-
 ### 🤖 Linguagens e Ferramentas  
 
 <p align="left">
