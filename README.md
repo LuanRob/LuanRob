@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 👩🏻‍💻 Luan Robert
 
 Cientista de Dados em Formação | Entusiasta de Automação
@@ -80,6 +80,3 @@ Gosto de explorar dados, criar visualizações interativas e transformar informa
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanRob&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" 
   />
 </p>
-=======
-# hello
->>>>>>> 3ebd0575d868ffabf963d374dd1f7140f98df5c9
