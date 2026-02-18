@@ -9,12 +9,12 @@
 Sou um profissional em formação na área de **Data Science e Análise de Dados**, com foco em:
 
 - Análise exploratória de dados
-- Dashboards interativos
+- Dashboards interativos com Streamlit
 - Automação de processos
-- Visualização de dados
+- Visualização de dados com Plotly
 - Processamento e análise em Databricks
 
-Tenho interesse em transformar dados em insights úteis para tomada de decisão.
+Tenho interesse em transformar dados em insights úteis para tomada de decisão e em desenvolver soluções que facilitem o dia a dia através da automação.
 
 ---
 
@@ -41,14 +41,14 @@ Tenho interesse em transformar dados em insights úteis para tomada de decisão.
 ### 📊 Dashboard de Vendas
 Dashboard interativo em Streamlit com filtros, métricas e gráficos interativos.
 
-🔗 https://github.com/LuanRob/dashbboard_vendas_curso
+🔗 Coloque aqui o link do repositório
 
 ---
 
 ### 📈 Análise Exploratória de Dados
 Projeto de análise de dataset real com visualizações e insights.
 
-🔗 https://github.com/LuanRob/projeto_data_science
+🔗 Coloque aqui o link
 
 ---
 
@@ -61,7 +61,8 @@ Experiência com notebooks, manipulação de dados e análise em ambiente distri
 # 🌐 Contato
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/luanroberth/](https://www.linkedin.com/in/luan-robert-192495133/)">
+
+<a href="https://www.linkedin.com/in/luan-robert-192495133/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -72,6 +73,11 @@ Experiência com notebooks, manipulação de dados e análise em ambiente distri
 <a href="https://www.kaggle.com/luanrobert">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
+
+<a href="https://github.com/LuanRob?tab=followers">
+<img src="https://img.shields.io/github/followers/LuanRob?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
