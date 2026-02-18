@@ -41,14 +41,14 @@ Tenho interesse em transformar dados em insights úteis para tomada de decisão.
 ### 📊 Dashboard de Vendas
 Dashboard interativo em Streamlit com filtros, métricas e gráficos interativos.
 
-🔗 (coloque aqui o link do repositório)
+🔗 https://github.com/LuanRob/dashbboard_vendas_curso
 
 ---
 
 ### 📈 Análise Exploratória de Dados
 Projeto de análise de dataset real com visualizações e insights.
 
-🔗 (coloque aqui o link)
+🔗 https://github.com/LuanRob/projeto_data_science
 
 ---
 
@@ -61,7 +61,7 @@ Experiência com notebooks, manipulação de dados e análise em ambiente distri
 # 🌐 Contato
 
 <p align="left">
-<a href="https://www.linkedin.com/in/luanroberth/">
+<a href="[https://www.linkedin.com/in/luanroberth/](https://www.linkedin.com/in/luan-robert-192495133/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
