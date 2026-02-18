@@ -41,14 +41,14 @@ Tenho interesse em transformar dados em insights úteis para tomada de decisão 
 ### 📊 Dashboard de Vendas
 Dashboard interativo em Streamlit com filtros, métricas e gráficos interativos.
 
-🔗 Coloque aqui o link do repositório
+🔗 https://github.com/LuanRob/dashbboard_vendas_curso
 
 ---
 
 ### 📈 Análise Exploratória de Dados
 Projeto de análise de dataset real com visualizações e insights.
 
-🔗 Coloque aqui o link
+🔗 https://github.com/LuanRob/projeto_data_science
 
 ---
 
