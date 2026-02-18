@@ -1,95 +1,91 @@
-
-# 👩🏻‍💻 Luan Robert
-
-Cientista de Dados em Formação | Entusiasta de Automação
-
-Oi, eu sou o Luan Robert 👋
-Tenho interesse em Data Science, Análise de Dados e Automação, e atualmente estou desenvolvendo projetos voltados para dashboards, séries temporais e análise de datasets reais (como o Brazilian E-Commerce Public Dataset).
-
-Gosto de explorar dados, criar visualizações interativas e transformar informações em insights práticos. Também me interesso por automação de processos para facilitar o dia a dia.
-
-📌 **No meu GitHub, você vai encontrar:**  
-
-- 🔎 **Análise Exploratória de Dados (EDA)**  
-- 📊 **Dashboards interativos** com Streamlit & Plotly  
-- ⚙️ **Scripts de automação e pré-processamento de dados**  
-- 🤖 **Experimentos em Machine Learning**  
-
-📈 Sempre buscando evoluir e compartilhar minha jornada de aprendizado na área de tecnologia.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=30&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Luan+Robert;Cientista+de+Dados+em+Formação;Dashboards+|+Análise+de+Dados+|+Automação" />
+</p>
 
 ---
 
-### 🔗 Minhas Redes  
+# 👨‍💻 Sobre mim
+
+Sou um profissional em formação na área de **Data Science e Análise de Dados**, com foco em:
+
+- Análise exploratória de dados
+- Dashboards interativos
+- Automação de processos
+- Visualização de dados
+- Processamento e análise em Databricks
+
+Tenho interesse em transformar dados em insights úteis para tomada de decisão.
+
+---
+
+# 🚀 Tecnologias e Ferramentas
 
 <p align="left">
-<a href="https://www.instagram.com/luanrobert17/?hl=pt-br">
-    <img 
-        alt="Instagram" 
-        title="Me siga no Instagram"
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/plotly.svg"/>
+<img height="40" src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+</p>
+
+---
+
+# 📊 Projetos em Destaque
+
+### 📊 Dashboard de Vendas
+Dashboard interativo em Streamlit com filtros, métricas e gráficos interativos.
+
+🔗 (coloque aqui o link do repositório)
+
+---
+
+### 📈 Análise Exploratória de Dados
+Projeto de análise de dataset real com visualizações e insights.
+
+🔗 (coloque aqui o link)
+
+---
+
+# ☁️ Databricks
+
+Experiência com notebooks, manipulação de dados e análise em ambiente distribuído para grandes volumes de dados.
+
+---
+
+# 🌐 Contato
+
+<p align="left">
+<a href="https://www.linkedin.com/in/luanroberth/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-    <a href="https://github.com/LuanRob?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LuanRob?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/luanroberth/">
-        <img 
-            alt="LinkedIn"
-            title="Meu LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://www.kaggle.com/luanrobert">
-        <img 
-            alt="Kaggle"
-            title="Meus projetos no Kaggle"
-            src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
-        />
-    </a>
-    <a href="mailto:luanroberth22@gmail.com">
-        <img
-            alt="Email"
-            title="Meu email"
-            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
 
----
-### 🤖 Linguagens e Ferramentas  
+<a href="mailto:luanroberth22@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="left">
-  <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="Pandas" title="Pandas" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-  <img alt="Numpy" title="NumPy" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-  <img alt="Plotly" title="Plotly" width="40px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/plotly/plotly.png"/>
-  <img alt="Streamlit" title="Streamlit" width="40px" style="padding-right: 10px;" src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>
-  <img alt="VSCode" title="Visual Studio Code" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img alt="Git" title="Git & GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="MySQL" title="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<a href="https://www.kaggle.com/luanrobert">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub  
+# 📊 Estatísticas
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="170" 
     src="https://github-readme-stats.vercel.app/api?username=LuanRob&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
-      align="left" 
-      alt="Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanRob&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanRob&theme=tokyonight&layout=compact" 
   />
 </p>
